@@ -1,4 +1,4 @@
-# Proyecto: Red Neuronal Multicapa (MLP) para Predicción de Precios de Viviendas
+# Red Neuronal Multicapa (MLP)
 
 Este proyecto implementa una red neuronal multicapa (MLP) desde cero en Python para predecir el precio de viviendas usando el dataset [Housing.csv](data/Housing.csv). El código principal se encuentra en el notebook [notebooks/01-main.ipynb](notebooks/01-main.ipynb) y la lógica de la red neuronal está en [libs/neuronas.py](libs/neuronas.py).
 
