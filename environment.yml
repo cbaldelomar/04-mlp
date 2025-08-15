@@ -11,5 +11,3 @@ dependencies:
   - pandas
   - ipykernel
   - seaborn
-  - flask_cors
-  - flask
