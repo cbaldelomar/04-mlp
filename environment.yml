@@ -3,11 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python==3.10.14
-  - tensorflow=2.18.1=cpu_py310h6605a60_0
-  - numpy=2.0.2=py310h1ec8c79_1
-  - matplotlib=3.10.1=py310h5588dad_0
-  - scikit-learn=1.7.1=py310h21054b0_0
+  - python=3.10.14
+  - tensorflow=2.18.1
+  - numpy=2.0.2
+  - matplotlib=3.10.1
+  - scikit-learn=1.7.1
   - pandas
   - ipykernel
   - seaborn
