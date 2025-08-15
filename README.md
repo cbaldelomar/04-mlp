@@ -48,6 +48,7 @@ README.md
         - seaborn
         - scikit-learn
         - tensorflow
+        - ipykernel
 
 2. Ejecuta el notebook [notebooks/01-main.ipynb](notebooks/01-main.ipynb) para entrenar y evaluar la red MLP.
 
